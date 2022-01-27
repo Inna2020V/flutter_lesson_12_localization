@@ -1,0 +1,12 @@
+{
+    "title": "Медовая лавка",
+    "winnieName": "Винни-Пух",
+    "piglet": "Пятачок",
+    "tigger": "Тигра",
+    "jars": "Покупки: {amount, plural, =0{Нет банок} =1{{amount} банка} =2{{amount} банки} =few{{amount} банки} =other{{amount} банок}}",
+    "flowers": "Покупки: {amount, plural, =0{Нет цветов} =1{{amount} цветок} =2{{amount} цветка} =few{{amount} цветка} =other{{amount} цветов}}",
+    "gifts": "Покупки: {amount, plural, =0{Нет подарков} =1{{amount} подарок} =2{{amount} подарка} =few{{amount} подарка} =other{{amount} подарков}}",
+    "manufacturer": "{manufacturer}",
+    "itemTotal": "Сумма: {value}",
+    "date": "Дата: {date}"
+}

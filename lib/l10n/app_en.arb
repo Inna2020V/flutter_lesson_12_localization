@@ -1,0 +1,48 @@
+{
+    "title": "Honey shop",
+    "winnieName": "Winnie the Pooh",
+    "piglet": "Piglet",
+    "tigger": "Tigger",
+    "jars": "Purchases: {amount, plural, =0{No jar today} =1{{amount} jar} =other{{amount} jars}}",
+    "@jars": {
+        "placeholders": {
+            "amount": {}
+        }
+    },
+    "flowers": "Purchases: {amount, plural, =0{No flower today} =1{{amount} flower} =other{{amount} flowers}}",
+    "@flowers": {
+        "placeholders": {
+            "amount": {}
+        }
+    },
+    "gifts": "Purchases: {amount, plural, =0{No gift today} =1{{amount} gift} =other{{amount} gifts}}",
+    "@gifts": {
+        "placeholders": {
+            "amount": {}
+        }
+    },
+    "manufacturer": "{manufacturer}",
+    "@manufacturer": {
+        "placeholders": {
+            "manufacturer": {}
+        }
+    },
+    "itemTotal": "Your total is: {value}",
+    "@itemTotal": {
+        "placeholders": {
+            "value": {
+                "type": "double",
+                "format": "currency"
+            }
+        }
+    },
+    "date": "Date: {date}",
+    "@date": {
+        "placeholders": {
+            "date": {
+                "type": "DateTime",
+                "format": "yMMMd"
+            }
+        }
+    }
+}
